@@ -74,9 +74,6 @@
 		<p:date dateType="Copyrighted">1997/</p:date>
 		<p:date dateType="Updated">1997/</p:date>
 	</p:dates>
-	<p:sizes>
-		<p:size>150 megabytes</p:size>
-	</p:sizes>
 	<p:language>en</p:language>
 	<p:formats>
 		<p:format>application/java-archive</p:format>
